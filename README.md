@@ -1,7 +1,9 @@
 Respect\Cli [![Build Status](https://secure.travis-ci.org/Respect/Cli.png)](http://travis-ci.org/Respect/Cli)
 ================
 
-Makes your code speak CLI
+Makes your code speak CLI.
+
+Please look at this proto-specification on how Respect\Cli works: https://gist.github.com/1828802
 
 License Information
 ===================
