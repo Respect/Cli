@@ -1,0 +1,29 @@
+{
+    "name": "Cli",
+    "version": "0.1.1-alpha",
+    "type": "library",
+    "description": "Makes your code speak CLI",
+    "homepage": "http:\/\/respect.li",
+    "repositories": {
+        "repository": {
+            "vcs": {
+                "url": "http:\/\/github.com\/Respect\/Cli"
+            }
+        }
+    },
+    "license": "BSD Style",
+    "authors": [
+        {
+            "name": "Alexandre Gaigalas",
+            "email": "alexandre@gaigalas.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Respect\\Cli": "library"
+        }
+    }
+}
