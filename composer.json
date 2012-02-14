@@ -3,11 +3,11 @@
     "version": "0.1.1-alpha",
     "type": "library",
     "description": "Makes your code speak CLI",
-    "homepage": "http:\/\/respect.li",
+    "homepage": "http://respect.li",
     "repositories": {
         "repository": {
             "vcs": {
-                "url": "http:\/\/github.com\/Respect\/Cli"
+                "url": "http://github.com/Respect/Cli"
             }
         }
     },
@@ -16,10 +16,19 @@
         {
             "name": "Alexandre Gaigalas",
             "email": "alexandre@gaigalas.net"
+        },        
+        {
+            "name": "Augusto Pascutti",
+            "email": "augusto@phpsp.org.br"
+        },
+        {
+            "name": "Henrique Moody",
+            "email": "henriquemoody@gmail.com"
         }
     ],
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "respect/config": ">=0.3.1-dev"
     },
     "autoload": {
         "psr-0": {
