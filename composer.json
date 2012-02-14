@@ -1,5 +1,5 @@
 {
-    "name": "Cli",
+    "name": "Respect/Cli",
     "version": "0.1.1-alpha",
     "type": "library",
     "description": "Makes your code speak CLI",
