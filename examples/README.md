@@ -8,7 +8,7 @@ or
 
 Params already work:
 
-`php bin/respect.php --DateTime --time=yesterday format Y-m-d`
+`php bin/respect.php --DateTime --time=yesterday format Y-m-d` (need to change this to --format=Y-m-d, params must be always --)
 
 This doesn't work yet:
 
